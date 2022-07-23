@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mitsue Douglas</h1>
+<h1 align="center">Hi, I'm Mitsue Douglas</h1>
 <h3 align="center">Full Stack Developer. In love with Python, JavaScript, Java, Big Data and Artificial Intelligence.</h3>
 
 -  I’m currently working on Data intelligence Security **Data intelligence - ICD**
