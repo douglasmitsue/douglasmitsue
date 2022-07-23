@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mitsue Douglas</h1>
 <h3 align="center">Full Stack Developer. In love with Python, JavaScript, Java, Big Data and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on Data intelligence Security **Data intelligence - ICD**
+-  I’m currently working on Data intelligence Security **Data intelligence - ICD**
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence and Python**
+-  I’m currently learning **Machine Learning, Artificial Intelligence and Python**
 
-- 📝 I regularly write articles on [http://www.douglasmitsue.com](http://www.douglasmitsue.com)
+-  I regularly write articles on [http://www.douglasmitsue.com](http://www.douglasmitsue.com)
 
-- 💬 Ask me about **Java, JavaScritp, Python and Big Data**
+-  Ask me about **Java, JavaScritp, Python and Big Data**
 
-- 📫 How to reach me **mitsuedouglas@gmail.com or contato@douglasmitsue.com**
+-  How to reach me **mitsuedouglas@gmail.com or contato@douglasmitsue.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/douglas-mitsue/](https://www.linkedin.com/in/douglas-mitsue/)
+-  Know about my experiences [https://www.linkedin.com/in/douglas-mitsue/](https://www.linkedin.com/in/douglas-mitsue/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
