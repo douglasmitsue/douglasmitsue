@@ -26,7 +26,7 @@
 ---
 
 <p align="left">
- > Para entrar em contato comigo: ⤵️
+- Para entrar em contato comigo: ⤵️
 </p>
 
 <p align="left">
