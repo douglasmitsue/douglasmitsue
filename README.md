@@ -1,8 +1,9 @@
-## - Olá, meu nome é <strong>{Douglas Mitsue}!</strong>
+### Oie devs 👋
+## - Meu nome é <strong>{Douglas Mitsue}!</strong>
 
 > Desenvolvedor FullStack, Apaixonado por Pytho, Java, JavaScript, Big Data e Inteligência Artificial.
 
-🔭 Atualmente faço Mestrado em Engenharia de Informática na IPVC - Portugal.
+🔭  Atualmente faço Mestrado em Engenharia de Informática na IPVC - Portugal.
 
 ----
 
