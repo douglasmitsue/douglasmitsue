@@ -1,13 +1,13 @@
 ### Oie devs 👋
 ## - Meu nome é <strong>{Douglas Mitsue}!</strong>
 
-> Desenvolvedor FullStack, Apaixonado por Python, Java, JavaScript, Big Data e Inteligência Artificial.
+> Desenvolvedor - Engenheiro de Dados, Apaixonado por Python, Java, JavaScript, Big Data e Inteligência Artificial.
 
-🔭  Atualmente faço Mestrado em Engenharia de Informática na IPVC - Portugal.
+🔭  Atualmente faço Mestrado em Engenharia de Informática na IPVC - Viana do Castelo - Portugal.
 
 ----
 
-## 🚀 Meus Skills
+## 🚀 Um pouco dos meus Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -24,7 +24,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="Scala"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spark/spark.png" alt="Spark"/></code>
 
 ---
 
