@@ -1,9 +1,9 @@
 ### Oie devs 👋
-## - Meu nome é <strong>{Douglas Mitsue}!</strong>
+## - Meu nome é <strong>{Douglas Nunes}!</strong>
 
 > Desenvolvedor - Engenheiro de Dados, Apaixonado por Python, Java, JavaScript, Big Data e Inteligência Artificial.
 
-🔭  Atualmente faço Mestrado em Engenharia de Informática.
+🔭  Atualmente estou me especializando em IA.
 
 ----
 
