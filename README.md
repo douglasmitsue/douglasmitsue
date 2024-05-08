@@ -3,7 +3,7 @@
 
 > Desenvolvedor - Engenheiro de Dados, Apaixonado por Python, Java, JavaScript, Big Data e Inteligência Artificial.
 
-🔭  Atualmente faço Mestrado em Engenharia de Informática na IPVC - Viana do Castelo - Portugal.
+🔭  Atualmente faço Mestrado em Engenharia de Informática.
 
 ----
 
