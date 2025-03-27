@@ -35,4 +35,4 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/douglas-mitsue/ target="_blank"
+[linkedin]: https://www.linkedin.com/in/douglas-mitsue/
