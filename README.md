@@ -238,7 +238,6 @@ Validated knowledge of:
 
 </tr>
 </table>
----
 
 # Tech Stack
 
