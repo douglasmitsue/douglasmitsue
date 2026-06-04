@@ -1,4 +1,3 @@
-html
 <div align="center">
 
 # Douglas Mitsue
@@ -310,4 +309,3 @@ Interested in building:
 ### ⚡ Engineering Artificial Intelligence Systems for Real-World Scale
 
 </div>
-```
