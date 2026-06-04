@@ -161,14 +161,12 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 <img width="260" alt="OCI Infrastructure" src="https://github.com/user-attachments/assets/93a2acb8-a28f-4a2b-9f79-972beb9092d0" />
 </a>
 
-<br><br>
+<br>
 
 <h3>OCI Infrastructure</h3>
 
 <b>Oracle Cloud Infrastructure Foundations Associate</b>
-
-<br><br>
-
+<br>
 <div align="left">
 
 Validated knowledge of:
@@ -188,13 +186,13 @@ Validated knowledge of:
 <img width="260" alt="OCI Data Platform" src="https://github.com/user-attachments/assets/eb55d422-57e6-490e-a30a-91005ff8319e" />
 </a>
 
-<br><br>
+<br>
 
 <h3>OCI Data Platform</h3>
 
 <b>Oracle Cloud Infrastructure Data Platform Foundations Associate</b>
 
-<br><br>
+<br>
 
 <div align="left">
 
@@ -215,13 +213,13 @@ Validated knowledge of:
 <img width="260" alt="OCI AI Foundations" src="https://github.com/user-attachments/assets/df1108a0-6cf6-47c2-972c-30ee12db5ae2" />
 </a>
 
-<br><br>
+<br>
 
 <h3>OCI AI Foundations</h3>
 
 <b>Oracle Cloud Infrastructure AI Foundations Associate</b>
 
-<br><br>
+<br>
 
 <div align="left">
 
