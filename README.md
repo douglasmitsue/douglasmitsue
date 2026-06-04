@@ -140,17 +140,14 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 </td>
 </tr>
 </table>
-
----
-html id="oracle-cert-section"
 ---
 
 # 🏅 Certifications
 
 <div align="center">
-
+<a href="https://www.oracle.com/education/certification/" target="_blank">
 <img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
-
+</a>
 </div>
 
 <br>
@@ -158,8 +155,9 @@ html id="oracle-cert-section"
 <table>
 <tr>
 <td width="33%" align="center">
-
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2E3E5768FD3F4C32A5CD282A90C33CF4701C0C94B732678B387D3CDCC7AA4483" target="_blank">
 ### <img width="552" height="276" alt="OCI_INFRA" src="https://github.com/user-attachments/assets/93a2acb8-a28f-4a2b-9f79-972beb9092d0" />
+</a>
  OCI Infrastructure
 
 **Oracle Cloud Infrastructure Foundations Associate**
@@ -173,8 +171,9 @@ Validated knowledge of:
 </td>
 
 <td width="33%" align="center">
-
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3875EA28CADF5B426C8D6C48D230A4513E56F635D15ED123DC1DD4B4E07D6FB5" target="_blank">
 ### <img width="552" height="276" alt="OCI_DATA" src="https://github.com/user-attachments/assets/eb55d422-57e6-490e-a30a-91005ff8319e" />
+</a>
  OCI Data Platform
 
 **Oracle Cloud Infrastructure Data Platform Foundations Associate**
@@ -188,8 +187,9 @@ Validated knowledge of:
 </td>
 
 <td width="33%" align="center">
-
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6B3C4FC8C9A4FEA2D09E889665419DC009F145C986ED8A1C95A2828EC5F67F1" target="_blank">
 ### <img width="552" height="276" alt="OCI_AI" src="https://github.com/user-attachments/assets/df1108a0-6cf6-47c2-972c-30ee12db5ae2" />
+</a>
  OCI AI Foundations
 
 **Oracle Cloud Infrastructure AI Foundations Associate**
