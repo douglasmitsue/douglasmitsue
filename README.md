@@ -141,6 +141,7 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 </tr>
 </table>
 ---
+
 # 🏅 Certifications
 
 <div align="center">
