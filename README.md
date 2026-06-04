@@ -36,7 +36,7 @@ Building scalable AI platforms, modern data architectures and production-grade m
 
 ---
 
-# 🚀 About Me
+# About Me
 
 Designing and engineering scalable **Data & Artificial Intelligence systems** — from modern **Lakehouse architectures** to production-grade **AI platforms**.
 
@@ -51,7 +51,7 @@ I focus on engineering-first solutions combining:
 
 ---
 
-# 🧠 Flagship Project
+# Flagship Project
 
 ## AI Systems Engineering Portfolio
 
@@ -59,7 +59,7 @@ I focus on engineering-first solutions combining:
 Production-oriented Artificial Intelligence systems built with a strong focus on scalability, modularity and real-world engineering.
 </p>
 
-### 🔗 Repository
+### Repository
 
 <p>
 <a href="https://github.com/douglasmitsue/ai-systems-engineering-portfolio">
@@ -69,26 +69,26 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 
 ---
 
-## 📌 What You'll Find Inside
+## What You'll Find Inside
 
-### 🤖 Generative AI & LLM Engineering
+### Generative AI & LLM Engineering
 - Transformer architectures implemented from scratch
 - Retrieval-Augmented Generation (RAG)
 - Vector Database pipelines
 - LLM fine-tuning strategies (LoRA)
 
-### 👁️ Computer Vision Systems
+### Computer Vision Systems
 - Real-time inference pipelines
 - Detection & tracking systems
 - Deep Learning optimization workflows
 
-### 📈 Quantitative & Financial AI
+### Quantitative & Financial AI
 - AI-driven trading systems
 - Portfolio optimization models
 - Risk modeling architectures
 - Time-series forecasting
 
-### ⚙️ Distributed ML Engineering
+### Distributed ML Engineering
 - Distributed training simulations
 - Scalable ML workflows
 - REST APIs & deployment architectures
@@ -96,7 +96,7 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 
 ---
 
-# 🏗 Data & AI Engineering Expertise
+# Data & AI Engineering Expertise
 
 <table>
 <tr>
@@ -240,7 +240,7 @@ Validated knowledge of:
 </table>
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -260,7 +260,7 @@ Validated knowledge of:
 
 ---
 
-# 📊 Engineering Mindset
+# Engineering Mindset
 
 ```text
 Mathematics before abstraction
@@ -272,7 +272,7 @@ Performance-driven optimization
 
 ---
 
-# 🌍 Open to Opportunities
+# Open to Opportunities
 
 Interested in building:
 
@@ -284,7 +284,7 @@ Interested in building:
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -306,6 +306,6 @@ Interested in building:
 
 <div align="center">
 
-### ⚡ Engineering Artificial Intelligence Systems for Real-World Scale
+### Engineering Artificial Intelligence Systems for Real-World Scale
 
 </div>
