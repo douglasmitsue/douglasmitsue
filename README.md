@@ -24,7 +24,7 @@ Building scalable AI platforms, modern data architectures and production-grade m
   <img src="https://img.shields.io/badge/Portfolio-Mitsue%20Intelligence-00F5D4?style=for-the-badge" />
 </a>
 
-<a href="https://linkedin.com/in/douglasmitsue">
+<a href="https://www.linkedin.com/in/douglas-mitsue/?locale=pt">
   <img src="https://img.shields.io/badge/LinkedIn-Douglas%20Mitsue-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -288,7 +288,7 @@ Interested in building:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/douglasmitsue">
+<a href="https://www.linkedin.com/in/douglas-mitsue/?locale=pt">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
