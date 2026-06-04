@@ -142,6 +142,66 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 </table>
 
 ---
+html id="oracle-cert-section"
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ☁️ OCI Infrastructure
+
+**Oracle Cloud Infrastructure Foundations Associate**
+
+Validated knowledge of:
+- Core OCI services
+- Cloud architecture fundamentals
+- Compute, networking & storage
+- Security & governance concepts
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄️ OCI Data Platform
+
+**Oracle Cloud Infrastructure Data Platform Foundations Associate**
+
+Validated knowledge of:
+- Modern data platform concepts
+- Data engineering fundamentals
+- Data warehousing & analytics
+- OCI data ecosystem
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 OCI AI Foundations
+
+**Oracle Cloud Infrastructure AI Foundations Associate**
+
+Validated knowledge of:
+- Artificial Intelligence fundamentals
+- Machine Learning concepts
+- Generative AI principles
+- OCI AI services & capabilities
+
+</td>
+</tr>
+</table>
+
+---
 
 # 🛠 Tech Stack
 
