@@ -174,7 +174,8 @@ Validated knowledge of:
 
 <td width="33%" align="center">
 
-### 🗄️ OCI Data Platform
+### <img width="552" height="276" alt="OCI_DATA" src="https://github.com/user-attachments/assets/eb55d422-57e6-490e-a30a-91005ff8319e" />
+ OCI Data Platform
 
 **Oracle Cloud Infrastructure Data Platform Foundations Associate**
 
@@ -188,7 +189,8 @@ Validated knowledge of:
 
 <td width="33%" align="center">
 
-### 🤖 OCI AI Foundations
+### <img width="552" height="276" alt="OCI_AI" src="https://github.com/user-attachments/assets/df1108a0-6cf6-47c2-972c-30ee12db5ae2" />
+ OCI AI Foundations
 
 **Oracle Cloud Infrastructure AI Foundations Associate**
 
