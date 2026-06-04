@@ -159,7 +159,8 @@ html id="oracle-cert-section"
 <tr>
 <td width="33%" align="center">
 
-### ☁️ OCI Infrastructure
+### <img width="552" height="276" alt="OCI25FNDCFA" src="https://github.com/user-attachments/assets/8af60f72-fa20-44da-852b-018a203931ba" />
+ OCI Infrastructure
 
 **Oracle Cloud Infrastructure Foundations Associate**
 
