@@ -141,7 +141,6 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 </tr>
 </table>
 ---
-html id="f0g8xa"
 # 🏅 Certifications
 
 <div align="center">
@@ -157,13 +156,13 @@ html id="f0g8xa"
 
 <td width="33%" align="center">
 
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2E3E5768FD3F4C32A5CD282A90C33CF4701C0C94B732678B387D3CDCC7AA4483" target="_blank">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2E3E5768FD3F4C32A5CD282A90C33CF4701C0C94B732678B387D3CDCC7AA4483">
 <img width="260" alt="OCI Infrastructure" src="https://github.com/user-attachments/assets/93a2acb8-a28f-4a2b-9f79-972beb9092d0" />
 </a>
 
 <br><br>
 
-<h3>☁️ OCI Infrastructure</h3>
+<h3>OCI Infrastructure</h3>
 
 <b>Oracle Cloud Infrastructure Foundations Associate</b>
 
@@ -184,13 +183,13 @@ Validated knowledge of:
 
 <td width="33%" align="center">
 
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3875EA28CADF5B426C8D6C48D230A4513E56F635D15ED123DC1DD4B4E07D6FB5" target="_blank">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3875EA28CADF5B426C8D6C48D230A4513E56F635D15ED123DC1DD4B4E07D6FB5">
 <img width="260" alt="OCI Data Platform" src="https://github.com/user-attachments/assets/eb55d422-57e6-490e-a30a-91005ff8319e" />
 </a>
 
 <br><br>
 
-<h3>🗄️ OCI Data Platform</h3>
+<h3>OCI Data Platform</h3>
 
 <b>Oracle Cloud Infrastructure Data Platform Foundations Associate</b>
 
@@ -211,13 +210,13 @@ Validated knowledge of:
 
 <td width="33%" align="center">
 
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6B3C4FC8C9A4FEA2D09E889665419DC009F145C986ED8A1C95A2828EC5F67F1" target="_blank">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6B3C4FC8C9A4FEA2D09E889665419DC009F145C986ED8A1C95A2828EC5F67F1">
 <img width="260" alt="OCI AI Foundations" src="https://github.com/user-attachments/assets/df1108a0-6cf6-47c2-972c-30ee12db5ae2" />
 </a>
 
 <br><br>
 
-<h3>🤖 OCI AI Foundations</h3>
+<h3>OCI AI Foundations</h3>
 
 <b>Oracle Cloud Infrastructure AI Foundations Associate</b>
 
