@@ -62,7 +62,7 @@ Production-oriented Artificial Intelligence systems built with a strong focus on
 ### Repository
 
 <p>
-<a href="https://github.com/douglasmitsue/ai-systems-engineering-portfolio">
+<a href="https://github.com/douglasmitsue?tab=repositories">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
